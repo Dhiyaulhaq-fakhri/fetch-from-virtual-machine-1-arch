@@ -25,8 +25,8 @@ const uptime = run('uptime -p');
 
 // logo 
 const logo = [
-'    			-`',
-'   		       .o+`',
+'    		       -`',
+'   		      .o+`',
 '                     `ooo/',
 '                    `+oooo:',
 '                   `+oooooo:',
